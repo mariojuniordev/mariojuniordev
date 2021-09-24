@@ -1,9 +1,9 @@
 ### SUP! I'm Mário Júnior😆
 
-- 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning ReacjJS
+- 🔭 I’m currently working on FullStack development
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Front-end Projects
-- 🤔 I’m looking for help with ReactJS
+- 🤔 I’m looking for help with Golang
 - 💬 Ask me about anything 😂
 
  <div>

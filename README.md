@@ -1,6 +1,6 @@
 ### SUP! I'm Mário Júnior😆
 
-- 🔭 I’m currently working on FullStack development
+- 🔭 I’m currently working on Frontend development
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Front-end Projects
 - 🤔 I’m looking for help with React Native
